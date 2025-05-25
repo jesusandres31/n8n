@@ -12,7 +12,7 @@ This project provides a containerized setup for [n8n](https://n8n.io/), an exten
 1. **Clone this repository** (if you haven't already):
 
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/jesusandres31/n8n
    cd n8n
    ```
 
