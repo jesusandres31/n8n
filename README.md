@@ -51,3 +51,5 @@ This project provides a containerized setup for [n8n](https://n8n.io/), an exten
 ---
 
 Feel free to modify this README to fit your specific configuration or deployment needs.
+
+---
